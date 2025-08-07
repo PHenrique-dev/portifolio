@@ -749,6 +749,34 @@ body {
     background: linear-gradient(135deg, #e34f26, #f06529);
 }
 
+.cert-icon.flutter {
+    background: linear-gradient(135deg, #02569b, #027dfd);
+}
+
+.cert-icon.dart {
+    background: linear-gradient(135deg, #0175c2, #13b9fd);
+}
+
+.cert-icon.ux {
+    background: linear-gradient(135deg, #ff6b6b, #ff8e8e);
+}
+
+.cert-icon.telecom {
+    background: linear-gradient(135deg, #6c5ce7, #a29bfe);
+}
+
+.cert-icon.dio {
+    background: linear-gradient(135deg, #e17055, #fd7f6f);
+}
+
+.cert-icon.anima {
+    background: linear-gradient(135deg, #00b894, #00cec9);
+}
+
+.cert-icon.una {
+    background: linear-gradient(135deg, #2d3436, #636e72);
+}
+
 .cert-info h6 {
     margin: 0 0 5px 0;
     color: var(--text-primary);
